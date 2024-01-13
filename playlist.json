@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Diamond Heart",
+        "artist": "Alan Walker",
+        "image": "https://i.ytimg.com/vi/sJXZ9Dok7u8/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS3SPnhSd2fwXYvVTJPm511INggQ",
+        "link": "https://youtu.be/sJXZ9Dok7u8?si=Dp6RRHODZncXoepL"
+    },
+    {
+        "name": "The Greatest",
+        "artist": "Sia",
+        "image": "https://i.ytimg.com/vi/sG6aWhZnbfw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwLIsqHIFYxAP2sH81zzJLXS_CSQ",
+        "link": "https://youtu.be/YbWkR6mFI6s?si=HUFR6PMC0q-6tEHq"
+    },
+    {
+        "name": "I Will Survive",
+        "artist": "Demi Lovato",
+        "image": "https://i.ytimg.com/vi/Sh3EUvi9b4Y/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsu_4igOr9SbeiW2PYkEsmnHjQfA",
+        "link": "https://youtu.be/Sh3EUvi9b4Y?si=1WpoFExE_IphlVLh" 
+    },
+    {
+        "name": "Tattoo",
+        "artist": "Loreen",
+        "image": "https://i.ytimg.com/vi/4lD0-1Uplms/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARheIF4oXjAP&rs=AOn4CLDGeYnpnM4ZTJRRqWyFrzZRiHBTMQ",
+        "link": "https://youtu.be/4lD0-1Uplms?si=ZsZ3Dl4BwiIz8r5T"
+    },
+    {
+        "name": "Fast Car",
+        "artist": "Jonas Blue",
+        "image": "https://i.ytimg.com/vi/w37EFJceMSU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVKwJ05USE9wwEJeZlqWCU_SL23Q",
+        "link": "https://youtu.be/w37EFJceMSU?si=2gKUN6LF9RUNKAFX"
+    }
+]
